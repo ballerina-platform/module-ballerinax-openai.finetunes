@@ -5,7 +5,7 @@ name = "openai.finetunes"
 version = "3.0.0"
 license = ["Apache-2.0"]
 authors = ["Ballerina"]
-keywords = ["AI/Fine-tunes", "OpenAI", "Cost/Paid", "Files", "Models", "Vendor/OpenAI"]
+keywords = ["AI/Fine-tunes", "Cost/Paid", "Files", "Models", "Vendor/OpenAI", "Area/AI", "Type/Connector"]
 icon = "icon.png"
 repository = "https://github.com/ballerina-platform/module-ballerinax-openai.finetunes"
 
