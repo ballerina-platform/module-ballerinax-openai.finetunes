@@ -1,9 +1,7 @@
 
 ## Overview
 
-[OpenAI](https://openai.com/) offers powerful AI models for tasks like natural language processing, audio transcription, and image generation.
-
-The OpenAI Fine-tuning connector offers APIs to connect and interact with the fine-tuning related endpoints of the OpenAI REST API, allowing users to customize OpenAI's AI models to meet specific needs.
+The `openai.finetunes` module is a direct, fully-typed REST connector for OpenAI's [Fine-tuning](https://platform.openai.com/docs/api-reference/fine-tuning) and Files APIs. Use it as a standalone client to upload training files and to create, monitor, and manage fine-tuning jobs that customize OpenAI models, independent of the `ballerina/ai` agent framework.
 
 ### Key Features
 - Create and manage fine-tuning jobs for custom model training
